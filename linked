@@ -1,0 +1,176 @@
+
+
+//        $("p[class]").css("border", "3px solid red");
+    //        $("p[id=para1]").css("border", "3px solid red");
+    //        $("p[id^=para]").css("border", "3px solid red");
+    //        $("p[id^=para][lang*=en-]").css("border", "3px solid red");
+  ----------------------------------------
+        //$("#example p:first").css("border", "3px solid red");
+                //$("#example p:last").css("border", "3px solid red");
+                //$("#example p:even").css("border", "3px solid red");
+                //$("#example p:odd").css("border", "3px solid red");
+                //$("#example .a:first").css("border", "3px solid red");
+                //$("#example .b:even").css("border", "3px solid red");
+                //$("#example p:gt(1)").css("border","3px solid red");
+                //$("#example p:not(p:eq(2))").css("border", "3px solid red");
+    ----------------------------------------
+       //$("p:contains('3')").css("border", "3px solid red");
+                //$("p:parent").css("border", "3px solid red");
+                //$("div:has(p[class=a])").css("border", "3px solid red");
+
+                //$("div p:first-child").css("border", "3px solid red");
+                //$("div p:last-of-type").css("border", "3px solid red");
+                //$("div p:nth-child(3)").css("border", "3px solid red");
+                //$("div p:nth-child(2n)").css("border", "3px solid red");
+    ----------------------------------------
+    // The child selector "parent > child" selects "child" elements that are
+            // immediate descendants of the "parent"
+            //$("div > p").css("border", "3px solid red");
+
+            // The descendant selector "ancestor descendant" selects "descendant" elements
+            // as long as they have an "ancestor" element somewhere above them
+            //$("div p.a").css("border", "3px solid red");
+
+            // The next adjacent selector "prev + next" selects the "next" element if it
+            // is immediately preceded by a "prev" element
+            //$("ul + div").css("border", "3px solid red");
+
+            // Next sibling selector "prev ~ siblings" selects all "siblings" elements that come
+            // after a "prev" element
+            //$("#para1 ~ p").css("border", "3px solid red");
+    ----------------------------------------
+      // The children() function retrieves the immediate (that is, first-level down) child
+                // elements of the matched set, excluding text nodes.
+                //$("#example").children().css("border", "3px solid red");
+
+    //            var elem = $("#para1");
+    //            elem.prev().css("border", "3px solid red");
+    //            elem.next().css("border", "3px solid green");
+    //            elem.parents().css("border", "3px solid blue");
+    //            elem.parentsUntil($("body")).css("border", "3px solid blue");
+
+                // use the find function to locate content within particular elements
+                //$("#example").find("#para4").css("border", "3px solid red");
+
+                // use the each function to iterate over a set of elements and operate on them
+    //            var leftmargin = 0;
+    //            var border = 3;
+    //            $("#example p").each(function(index, element) {
+    //                $(element).css("border", border+"px solid red")
+    //                          .css("margin-left", leftmargin);
+    //                border += 2;
+    //                leftmargin += 10;
+    ----------------------------------------
+     //$("form :input").css("border", "3px solid red");
+            //$("form :text").css("border", "3px solid red");
+            //$("form :text:enabled").css("border", "3px solid red");
+            //$("form :checked").css("border", "3px solid red");
+            //$("form :checkbox:checked").css("border", "3px solid red");
+    ----------------------------------------
+    // Insertion functions for inserting inside of content
+                //$("#example p").append(" with some content appended");
+                //$("#example p").prepend("Hello! ");
+                //$("#example p:last").appendTo("#example p:first");
+                //$("#example p:last").prependTo("#example p:first");
+
+                // Insertion functions for inserting outside of content
+                //$("#example p").after("--");
+                //$("#example p").before("**");
+                //$("<p>New Para after</p>").insertAfter("#example p:first");
+                //$("<p>New Para before</p>").insertBefore("#example p:last");
+    ----------------------------------------
+            //$("#example p").wrap("<div style='color:red'/>");
+            //$("#example p").wrapAll("<div style='border:3px solid red'/>");
+            //$("#example").empty();
+            //$("#example p.a, #example p.b").remove();
+            //$("#example p.a, #example p.b").detach();
+            //$("<div>replaced</div>").replaceAll("#example p[id]");
+            //$("#example p[id]").replaceWith("<div>replaced</div>");
+            //$("#example p").replaceWith(replacementFn);
+             function replacementFn() {
+                    if ($(this).text().indexOf("1") != -1) {
+                        return "<p>This is paragraph uno</p>";
+                    }
+                    else {
+                        return this.outerHTML;
+                    }
+                }
+    ----------------------------------------
+    // Read the alt attributes from all images
+                //$("#example").after("<p id='alts'>");
+                //$("img").each(function() {
+                //    $("#alts").append($(this).attr("alt") + " ");
+                //});
+
+                // Add a title attribute to all of the images
+                //$("a").attr("title", "Photo by some photographer");
+
+                // Make each image open in a new window
+                $("a").attr("target", "_blank");
+
+                // Remove the href from the <a> tags, making images unclickable
+                //$("a").removeAttr("href");
+
+                // Modify multiple attributes at once
+                //$("img").attr({ src: "images/Spring.jpg", title: "Spring all the things!" });
+
+    ----------------------------------------
+      $("#setProp").click(function(evt) {
+                    $("#example p").css("text-decoration", "overline")
+                                    .css("font-size", "+=1pt");
+                });
+
+                $("#setProps").click(function(evt) {
+                    $("#example p").css({
+                        "font-weight" : "bold",
+                        "color" : "red",
+                        "text-decoration" : "underline"
+                    });
+                });
+
+                $("#addCl").click(function(evt) {
+                    $("#example p").addClass("pClass");
+                });
+
+                $("#rmCl").click(function(evt) {
+                    $("#example p").removeClass("pClass");
+                });
+
+                $("#toggleCl").click(function(evt) {
+                    $("#example p").toggleClass("pClass");
+    ----------------------------------------
+  document.getElementById("show").addEventListener("click", function (evt) {
+                // if there is any data, display it
+                alert(JSON.stringify($("#example").data(), null, "  "));
+            });
+            document.getElementById("store").addEventListener("click", function (evt) {
+                // store some arbitrary data on the DIV object
+                $("#example").data("key1", 1234);
+                $("#example").data("key2", "Joe Marini");
+            });
+            document.getElementById("remove").addEventListener("click", function (evt) {
+                // clear the data from the DIV
+                $("#example").removeData("key2");
+            });
+   ----------------------------------------
+   // Older versions of jQuery used the "bind" and "unbind" functions
+               // $("#evtTarget").bind("mouseover mouseleave", highlight);
+
+               // $("#evtTarget").bind("click", function(evt) {
+               //     $("#evtTarget").unbind("mouseover mouseleave", highlight);
+               //     $("#evtTarget").html("<p>You shut off the hover effect!</p>");
+               // });
+
+               // jQuery as of 1.7 provides the universal "on" and "off" functions
+               $("#evtTarget").on("mouseover mouseleave", highlight);
+
+               $("#evtTarget").on("click", function(evt) {
+                   $("#evtTarget").off("mouseover mouseleave", highlight);
+                   $("#evtTarget").html("<p>You shut off the hover effect!</p>");
+                   $("#evtTarget").removeClass("highlighted");
+               });
+
+               $("#textEntry").on("keypress", function(evt) {
+                   $("#keyPress").text(String.fromCharCode(evt.charCode));
+               });
+   ----------------------------------------

@@ -1,0 +1,84 @@
+
+jQuery.fn.jquery
+
+
+ scroll
+ prepend
+ detach    $("span").on("click",function () {$("h1").detach();});
+ appendTo$("span").on("click",function () {$("div").clone().appendTo("body");});
+has
+each
+wrap
+remove
+attr
+prop
+offset
+hasClass
+is
+_________________________________________________________
+$("html").click(function (e) {$("p").show().offset({left:e.pageX, top:e.pageY});});
+$("html").mousemove(function (e) {$("p").text("X-Axis : "+e.pageX+"Y-Axis : "+e.pageY);});
+blur
+Focus
+change
+keyup
+keypress
+keydown
+preventDefault
+Create Anew div
+-delegate
+Events
+mouseenter
+mouseleave
+bind
+toggleClass
+ click:function () {$(this).text("Mo");} ,
+ dblclick:function () {$(this).text("double"); },
+ mouseenter:function () {$(this).css("color","red");},
+ mouseleave:function () {$(this).css("color","#00F");}
+Selectors
+1- even
+2- odd
+3-first-child
+4-first-of-type
+5-last-of-type
+6-nth-child()
+7-nth-last-child()
+8-nth-of-type()
+9-nth-last-of-type(2)
+10-only-child                 :empty
+11-only-of-type
+12- div > p
+13-div + p
+14-div~p
+15- div:gt(1)
+16-div:it(1)
+17-div:not(:contains )
+18-:header
+19-focus   :root
+20- $('div:has("p")')
+21-:visible    :hidden
+23-div:lang("en")
+24-title=''mo]"
+25-$("img[title ^='name of img ']")
+26-resat
+27-div:text
+28-disabled
+29- $(":checkbox").fadeOut(300);
+30-selected
+_________________________________________________________
+first
+last
+eq
+filter
+not
+parent     -parentsUntil
+children
+siblings    prev    next    nextAll    prevAll   nextUntil  prevUntil
+_________________________________________________________
+addClass
+removeClass
+toggleClass
+bind
+
+

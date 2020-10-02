@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>try</title>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+    <script src="jquery/jquery-3.4.1.min.js"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+<style>
+</style>
+</head>
+<body>
+<h1 class="text-center try pb-4 bg-primary">jQuery</h1>
+<p class="text-center p-3">Mohammad</p>
+
+<div>
+    <span class="increase btn btn-primary ml-5">Increase</span>
+    <span class="decrease btn btn-secondary ml-5">Decrease</span><br>
+    <span class="height btn btn-info w-10 m-2">Height</span>
+    <span class="toggle btn btn-primary m-2">Toggle</span>
+    <span class="animation btn btn-danger m-2">Animation</span>
+    <span class="text btn btn-primary m-2">Text</span><br>
+    <span class="create btn btn-primary m-2">Create</span>
+    <input type="text">
+    <span class="blur btn btn-light m-2">Username</span>
+    <span class="word btn btn-light m-2">word</span>
+</div>
+
+<!--To Do-->
+<form>
+    <label>Enter a new task:</label>
+    <input class="input" type="text">
+    <input type="submit" value="Add">
+</form>
+<ul title="Click to delete; drag to reorder">
+</ul>
+<script type="text/javascript">
+    $("document").ready(function() {
+        $( "h1" ).css({fontSize: "100px", color: "red"});
+
+        $( "p" ).css('background', '#64dd82').animate({width : '-=600'}, 2000).fadeOut().fadeIn('slow');
+     //   $("span").click(function () {$("div").wrap("<span>Mohammad </span>");});
+        $('.increase').click(function () {$('p').width("+=" +50).focus().css("background","#ee1521");});
+        $('.decrease').click(function () {$("p").width("-=" +50) ;});
+        $('.height').click(function () {$(this).height('+='+40) ; });
+        $(".toggle").click(function () {$(this).siblings().toggle(2000);});
+        $(" .animation").click(function () {$(this).animate({width:'900px'},200);$(this).animate({height:'200px'},200);});
+        $(".text").bind({ click:function () {$(this).text("Here is a new Text")}});
+        $(".create").click(function () {$("<div> This Is Create</div> ").insertAfter($(this));});
+        $(window).scroll(function () {console.log("scrollTop : " +$(this).scrollTop());});
+        
+        $("input").on("blur",function (event) {
+            if ($(this).val().length>5){
+                $(".blur").text(" Username Moet niet meer dan 5 letters zijn : "+$(this).val())
+            }else {
+                $(".blur").text("Username is  5 letters : "+$(this).val())
+            }
+
+
+            //to do
+            $('form').submit(function() {
+                if ($('.input').val() !== '') {
+                    var newTask = $('.input').val();
+                    var newLi = $('<li>' + newTask + '</li>');
+                    newLi.on('click', function() {
+                        $(this).remove(); // Attach the event handler *before* adding the element
+                    });
+                    $('ul').prepend(newLi); // To put the new task at the top of the list
+                    $('.input').val('');
+                    return false; // So the change persists
+                }
+            });
+            $('ul').sortable(); // Because what good is a to-do lis
+        });
+
+    });
+</script>
+</body>
+</html>

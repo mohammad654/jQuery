@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb72b5cb-9254-4d0f-94d2-87e42f2a5d02" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/Ch04/04_05/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/Ch04/04_05/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/Ch05/05_07/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/Ch05/05_07/jquery.easing.1.3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/Ch05/05_07/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/Ch05/05_07/tt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_css/ImageSlideShow/santorini/images/arrow-left-active.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_css/ImageSlideShow/santorini/images/arrow-left-hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_css/ImageSlideShow/santorini/images/arrow-left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_css/ImageSlideShow/santorini/images/arrow-right-active.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_css/ImageSlideShow/santorini/images/arrow-right-hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_css/ImageSlideShow/santorini/images/arrow-right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_css/ImageSlideShow/santorini/images/busy.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_css/ImageSlideShow/santorini/images/nav-left-active.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_css/ImageSlideShow/santorini/images/nav-left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_css/ImageSlideShow/santorini/images/nav-right-active.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_css/ImageSlideShow/santorini/images/nav-right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_css/ImageSlideShow/santorini/images/page-gradient.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_css/ImageSlideShow/santorini/images/pause-active.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_css/ImageSlideShow/santorini/images/pause.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_css/ImageSlideShow/santorini/images/play-active.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_css/ImageSlideShow/santorini/images/play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_css/ImageSlideShow/santorini/images/white-solid-bkg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_css/ImageSlideShow/santorini/images/white-stripes-bkg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_css/ImageSlideShow/santorini/santorini.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_images/back_bug.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_images/back_large.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_images/backpack_bug.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_images/beach_yoga_sm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_images/bigSur.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_images/book_bug.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_images/calm_bug.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_images/calm_desc_bug.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_images/contact_main.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_images/contact_nav.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_images/cycle_desc_bug.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_images/cycle_logo.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_images/desert_bug.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_images/desert_desc_bug.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_images/explorers_main.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_images/explorers_nav.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_images/flag_photo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_images/footer_back.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_images/gallery/golden_gate.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_images/gallery/golden_gate_thumb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_images/gallery/old_copcar.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_images/gallery/old_copcar_thumb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_images/gallery/red_rock_01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_images/gallery/red_rock_thumb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_images/gallery/redwoods_01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_images/gallery/redwoods_thumb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_images/gallery/tahoe_01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_images/gallery/tahoe_thumb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_images/gallery/ventura_01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_images/gallery/ventura_thumb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_images/kids_desc_bug.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_images/logo.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_images/lunch.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_images/main_back.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_images/map_bigsur.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_images/map_channel.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_images/map_valley.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_images/map_whitney.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_images/map_yosemite.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_images/mission_look.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_images/mission_main.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_images/mission_nav.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_images/more_bug.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_images/nature_desc_bug.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_images/page_background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_images/resource_main.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_images/resources_nav.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_images/return_top.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_images/snow_desc_bug.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_images/springs_desc_bug.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_images/star_bullet.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_images/tag.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_images/taste_desc_bug.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_images/thead_back.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_images/tours_main.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/_images/tours_nav.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/booking.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/contact.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/index.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/join.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/mission.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/tours/tour_detail_backpack.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/tours/tour_detail_bigSur-2.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/tours/tour_detail_bigsur.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/tours/tour_detail_bigsur_trails.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/explorecalifornia/tours/tour_detail_cycle.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/plugins/animate-it/assets/css/animate-animo3428.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/plugins/animate-it/assets/js/animo.min4bf4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/plugins/animate-it/assets/js/edsanimate.site47a7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/plugins/animate-it/assets/js/edsanimatec2d0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/plugins/animate-it/assets/js/jquery.ba-throttle-debounce.min4963.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/plugins/animate-it/assets/js/viewportcheckerc2d0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/plugins/contact-form-7-designer/includes/js/cf7-styles3428.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/plugins/contact-form-7/includes/css/stylesc1f9.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.mind03d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/plugins/contact-form-7/includes/js/scriptsc1f9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/plugins/easy-video-player/lib/flowplayer.min3428.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/plugins/easy-video-player/lib/skin/all-skins3428.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/plugins/easy-video-player/lib/skin/img/black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/plugins/easy-video-player/lib/skin/img/black@x2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/plugins/easy-video-player/lib/skin/img/black_rtl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/plugins/easy-video-player/lib/skin/img/black_rtl@x2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/plugins/easy-video-player/lib/skin/img/flowplayer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/plugins/easy-video-player/lib/skin/img/flowplayer@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/plugins/easy-video-player/lib/skin/img/play_black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/plugins/easy-video-player/lib/skin/img/play_black@x2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/plugins/easy-video-player/lib/skin/img/play_black_rtl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/plugins/easy-video-player/lib/skin/img/play_black_rtl@x2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/plugins/easy-video-player/lib/skin/img/play_white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/plugins/easy-video-player/lib/skin/img/play_white@x2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/plugins/easy-video-player/lib/skin/img/play_white_rtl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/plugins/easy-video-player/lib/skin/img/play_white_rtl@x2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/plugins/easy-video-player/lib/skin/img/playful_black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/plugins/easy-video-player/lib/skin/img/playful_black@x2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/plugins/easy-video-player/lib/skin/img/playful_black_rtl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/plugins/easy-video-player/lib/skin/img/playful_black_rtl@x2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/plugins/easy-video-player/lib/skin/img/playful_white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/plugins/easy-video-player/lib/skin/img/playful_white@x2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/plugins/easy-video-player/lib/skin/img/playful_white_rtl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/plugins/easy-video-player/lib/skin/img/playful_white_rtl@x2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/plugins/easy-video-player/lib/skin/img/white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/plugins/easy-video-player/lib/skin/img/white@x2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/plugins/easy-video-player/lib/skin/img/white_rtl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/plugins/easy-video-player/lib/skin/img/white_rtl@x2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/plugins/siteorigin-panels/css/front8dff.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/plugins/siteorigin-panels/js/styling-24.min8dff.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/plugins/so-widgets-bundle/icons/fontawesome/font/fontawesome-webfont93e3.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/plugins/so-widgets-bundle/icons/fontawesome/font/fontawesome-webfont93e3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/plugins/so-widgets-bundle/icons/fontawesome/font/fontawesome-webfont93e3.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/plugins/so-widgets-bundle/icons/fontawesome/font/fontawesome-webfont93e3.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/plugins/so-widgets-bundle/icons/fontawesome/font/fontawesome-webfont93e3.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/plugins/so-widgets-bundle/icons/fontawesome/font/fontawesome-webfontd41d.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/plugins/so-widgets-bundle/icons/fontawesome/style3428.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/plugins/so-widgets-bundle/widgets/button/css/style8c67.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/plugins/ultimate-responsive-image-slider/css/images/closedhand.cur" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/plugins/ultimate-responsive-image-slider/css/images/openhand.cur" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/plugins/ultimate-responsive-image-slider/css/slider-pro3428.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/plugins/ultimate-responsive-image-slider/js/jquery.sliderProf488.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/themes/radcliffe-child/style3428.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/themes/radcliffe/images/icons/1x/archive-w.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/themes/radcliffe/images/icons/1x/author-w.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/themes/radcliffe/images/icons/1x/folder-g.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/themes/radcliffe/images/icons/1x/home-w.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/themes/radcliffe/images/icons/1x/next-g.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/themes/radcliffe/images/icons/1x/prev-g.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/themes/radcliffe/images/icons/1x/spyglass-d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/themes/radcliffe/images/icons/1x/tag-g.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/themes/radcliffe/images/icons/2x/archive-w.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/themes/radcliffe/images/icons/2x/author-w.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/themes/radcliffe/images/icons/2x/folder-g.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/themes/radcliffe/images/icons/2x/home-w.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/themes/radcliffe/images/icons/2x/next-g.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/themes/radcliffe/images/icons/2x/prev-g.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/themes/radcliffe/images/icons/2x/spyglass-d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/themes/radcliffe/images/icons/2x/tag-g.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/themes/radcliffe/js/global3428.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/themes/radcliffe/js/jquery.backstretch3428.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/themes/radcliffe/style3428.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/uploads/2015/12/Couple-running_467520371-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/uploads/2015/12/Drinking-water-at-sunset_100070651.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/uploads/2015/12/Mineral-water-information.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/uploads/2015/12/Mountain-biking_1200x600_533443205.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/uploads/2015/12/Revive-Refuel-Regenerate.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/uploads/2015/12/apparel-link_490773207-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/uploads/2015/12/cropped-HSport_01-180x180.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/uploads/2015/12/cropped-HSport_01-192x192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/uploads/2015/12/cropped-HSport_01-32x32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/uploads/2015/12/cyclists_sb10064568ag-001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/uploads/2015/12/h-horizontal-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/uploads/2015/12/h-sport-blueberry.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/uploads/2015/12/header_running_1200x600_147861285.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/uploads/2015/12/minearl-water-blueberry_400x600-200x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/uploads/2015/12/minearl-water-blueberry_400x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/uploads/2015/12/mineral-water-lemon-lime_400x600-200x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/uploads/2015/12/mineral-water-lemon-lime_400x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/uploads/2015/12/mineral-water-link-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/uploads/2015/12/mineral-water-orange_400x600-200x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/uploads/2015/12/mineral-water-orange_400x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/uploads/2015/12/mineral-water-peach_400x600-200x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/uploads/2015/12/mineral-water-peach_400x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/uploads/2015/12/mineral-water-product-line_featured-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/uploads/2015/12/mineral-water-product-line_text-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/uploads/2015/12/mineral-water-raspberry_400x600-200x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/uploads/2015/12/mineral-water-raspberry_400x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/uploads/2015/12/mineral-water-strawberry_400x600-200x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/uploads/2015/12/mineral-water-strawberry_400x600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/uploads/2015/12/mineral-water-vitamins-protein-bars.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/uploads/2015/12/product-text-header.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/uploads/2015/12/running-in-desert_124821078.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/uploads/2015/12/supplements-link-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/uploads/2015/12/surfer_160896636.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/uploads/2015/12/vitamin-product-line_text.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/uploads/2016/05/eat-your-vegetables-466545605.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/uploads/2016/05/every-step-counts-82636724.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/uploads/siteorigin-widgets/sow-button-flat-c939e44f5f9e3428.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/uploads/siteorigin-widgets/sow-image-sow-image-2b1fadbace823428.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/uploads/siteorigin-widgets/sow-social-media-buttons-atom-16abceaa2bf13428.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-content/uploads/siteorigin-widgets/sow-social-media-buttons-atom-fc7cb45c908c3428.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-includes/js/comment-reply.min3428.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-includes/js/jquery/jquery-migrate.min2fca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-includes/js/jquery/jquerycad0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-includes/js/wp-embed.min3428.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-includes/wlwmanifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-json/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-json/oembed/1.0/embed10e8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-json/oembed/1.0/embed1419.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-json/oembed/1.0/embed2171" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-json/oembed/1.0/embed32a9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-json/oembed/1.0/embed41fb.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-json/oembed/1.0/embed48be" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-json/oembed/1.0/embed4e7d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-json/oembed/1.0/embed5953" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-json/oembed/1.0/embed6338.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-json/oembed/1.0/embed6cca.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-json/oembed/1.0/embed7131" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-json/oembed/1.0/embed7305.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-json/oembed/1.0/embed749a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-json/oembed/1.0/embed7727" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-json/oembed/1.0/embed78ee.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-json/oembed/1.0/embed7d5d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-json/oembed/1.0/embed7f88.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-json/oembed/1.0/embed87b8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-json/oembed/1.0/embed8821" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-json/oembed/1.0/embed8ecf.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-json/oembed/1.0/embed900f.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-json/oembed/1.0/embed954a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-json/oembed/1.0/embed9ee9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-json/oembed/1.0/embeda5bd.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-json/oembed/1.0/embedaef4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-json/oembed/1.0/embedbade.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-json/oembed/1.0/embedc1fe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-json/oembed/1.0/embedc9fc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-json/oembed/1.0/embedce61" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-json/oembed/1.0/embedd126" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-json/oembed/1.0/embedd66a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-json/oembed/1.0/embeddc50.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-json/oembed/1.0/embeddc7e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-json/oembed/1.0/embede930.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-json/oembed/1.0/embedee64" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-json/oembed/1.0/embedf11a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-json/oembed/1.0/embedf927" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/hplussport.com/wp-json/oembed/1.0/embedfcf0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/colorbox.ai" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/content/ajax.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/content/daisy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/content/daisy@2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/content/homer.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/content/marylou.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/content/ohoopee1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/content/ohoopee2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/content/ohoopee3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/example1/colorbox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/example1/images/border.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/example1/images/controls.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/example1/images/loading.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/example1/images/loading_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/example1/images/overlay.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/example1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/example2/colorbox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/example2/images/controls.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/example2/images/loading.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/example2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/example3/colorbox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/example3/images/controls.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/example3/images/loading.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/example3/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/example4/colorbox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/example4/images/border1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/example4/images/border2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/example4/images/loading.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/example4/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/example5/colorbox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/example5/images/border.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/example5/images/controls.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/example5/images/loading.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/example5/images/loading_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/example5/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/i18n/jquery.colorbox-ar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/i18n/jquery.colorbox-bg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/i18n/jquery.colorbox-bn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/i18n/jquery.colorbox-ca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/i18n/jquery.colorbox-cs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/i18n/jquery.colorbox-da.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/i18n/jquery.colorbox-de.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/i18n/jquery.colorbox-es.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/i18n/jquery.colorbox-et.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/i18n/jquery.colorbox-fa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/i18n/jquery.colorbox-fi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/i18n/jquery.colorbox-fr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/i18n/jquery.colorbox-gl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/i18n/jquery.colorbox-gr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/i18n/jquery.colorbox-he.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/i18n/jquery.colorbox-hr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/i18n/jquery.colorbox-hu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/i18n/jquery.colorbox-id.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/i18n/jquery.colorbox-it.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/i18n/jquery.colorbox-ja.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/i18n/jquery.colorbox-kr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/i18n/jquery.colorbox-lt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/i18n/jquery.colorbox-lv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/i18n/jquery.colorbox-my.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/i18n/jquery.colorbox-nl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/i18n/jquery.colorbox-no.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/i18n/jquery.colorbox-pl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/i18n/jquery.colorbox-pt-BR.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/i18n/jquery.colorbox-ro.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/i18n/jquery.colorbox-ru.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/i18n/jquery.colorbox-si.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/i18n/jquery.colorbox-sk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/i18n/jquery.colorbox-sr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/i18n/jquery.colorbox-sv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/i18n/jquery.colorbox-tr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/i18n/jquery.colorbox-uk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/i18n/jquery.colorbox-zh-CN.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/i18n/jquery.colorbox-zh-TW.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/jquery.colorbox-min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/jquery.colorbox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/colorbox/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/jquery/jquery-migrate.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/jquery/jquery.easing.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/lib/jquery/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/basket.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/care-tips-orchids.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/category-arrangements.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/checkout-step1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/css/all.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/css/improved.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/css/jqwd.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/css/modified.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/css/original.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/fonts/domine-bold-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/fonts/domine-bold-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/fonts/domine-bold-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/fonts/domine-bold-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/fonts/domine-bold-webfontd41d.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/fonts/domine-regular-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/fonts/domine-regular-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/fonts/domine-regular-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/fonts/domine-regular-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/fonts/domine-regular-webfontd41d.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/fonts/muli-regular-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/fonts/muli-regular-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/fonts/muli-regular-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/fonts/muli-regular-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/fonts/muli-regular-webfontd41d.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/fragments/irises.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/fragments/lilies.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/fragments/peruvian.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/fragments/sunflower.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/160_alstromeria_87519333.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/160_build_a_bouquet_166133374.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/160_calla_blush_160337318.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/160_daffodil_122442732.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/160_daisy_white_159207232.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/160_dendrobium2_152158743.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/160_gerbera_purple_146798391.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/160_iris_purple_121549009.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/160_lilac_157045915.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/160_lily_pink_160102549.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/160_rose_peach_89153628.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/160_rose_pink_112277154.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/160_sunflower_146748795.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/160_tulip_purple_160910481.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/200_alstromeria_87519333.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/200_arrangement_163066655.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/200_arrangement_94972439.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/200_arrangement_yellow_tulip.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/200_birthday_163159054.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/200_birthday_163167595.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/200_bouquet_watering can_orange_163066621.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/200_butterflies_120624479.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/200_carnations_basket_92246977.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/200_carnations_daisies_92007328.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/200_cattleya2_149067833.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/200_colorful_gerbera_119722776.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/200_colorful_vases_160822027.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/200_dendrobium2_152158743.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/200_gerbera_freesia_104250655.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/200_golden_tulips_148182635.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/200_hyacinths_147970493.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/200_irises_121549009.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/200_irises_lilies_87478811.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/200_irises_tulips_121357306.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/200_lilac_daisy_136944897.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/200_lilacs_tulips_157045915.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/200_maidenhair_147280529.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/200_oncidium2_152176782.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/200_phalaenopsis_164373689.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/200_pink_green_mums_160331816.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/200_pink_white_daisies_146806077.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/200_purple_daisy_rose104274224.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/200_red_roses_111795740.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/200_red_yellow_roses_119752732.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/200_stargazer_lilies_162048907.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/200_sunflowers_146748795.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/200_sunflowers_glads_153546286.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/200_tulips_daffodils2_153986183.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/200_tulips_daffodils3_153986295.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/200_tulips_daffodils4_160232631.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/200_tulips_daffodils_139756476.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/200_tulips_daffodils_153986115.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/200_tulips_irises_121357306.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/200_tulips_watering_can_155465445.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/200_white_lily_pink_daisy_92493508.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/200_white_rose_mix_166610678.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/200_white_tulip_163199928.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/200_yellow_white_mums_147664285.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/280_heirloom_pink_roses_153499160.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/280_irises_121549009.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/280_white_red_tulips_160382424.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/290_cymbidium_bouquet.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/290_spring_tulips.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/450_2_maidenhair_fern_166585539.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/450_2_tulip_field_154321412.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/450_rose_peach_89153628.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/450_rose_pink_112277154.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/450_rose_red_92974998.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/450_rose_white_100291489.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/450_rose_yellow_187406sdc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/450_tulips_daffodils_139756476.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/450_tulips_daffodils_163271740.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/70_alstromeria_87519333.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/70_build_a_bouquet_166133374.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/70_calla_blush_160337318.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/70_daffodil_122442732.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/70_daisy_white_159207232.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/70_dendrobium2_152158743.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/70_gerbera_purple_146798391.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/70_iris_purple_121549009.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/70_lilac_157045915.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/70_lily_pink_160102549.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/70_rose_peach_89153628.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/70_rose_pink_112277154.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/70_rose_red_92974998.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/70_rose_white_100291489.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/70_rose_yellow_187406sdc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/70_sunflower_146748795.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/70_tulip_purple_160910481.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/710_arrangement_97881968.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/710_colorful_gerbera_119722776.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/710_heirloom_pink_roses_153499160.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/710_lilacs_tulips_157045915.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/710_purple_calla_lilies_144723256.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/710_red_yellow_roses_119752732.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/980_colorful vases_160822027.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/980_daffodils2_138293459.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/980_white_rose_mix_166610678.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/basket_banner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/html.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/lightbox_Ashley_Luna.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/lightbox_Audrey_Cecilia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/lightbox_Brenda_Burns.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/lightbox_Debra_Wisdom.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/lightbox_Erick_Durham.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/lightbox_Laurel_Foucher.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/lightbox_Marcus_Alan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/lightbox_Tamara_Alanwood.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/loader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/social.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/images/sprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/index-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/js/all.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/js/base.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/js/improved.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/js/jquery-1.8.3.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/js/jquery.colorbox-min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/js/modified.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/js/original.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/js/plugins.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/our-designers.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/product-detail-arrangements.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/shared/lightbox-ashley-luna.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/shared/lightbox-audrey-cecilia.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/shared/lightbox-brenda-burns.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/shared/lightbox-debra-wisdom.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/shared/lightbox-erick-durham.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/shared/lightbox-laurel-foucher.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/shared/lightbox-marcus-alan.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/shared/lightbox-tamara-alanwood.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_JQuery_WebDes/Ex_Files_JQuery_WebDes/Exercise Files/petal/sub-category-mixed-arrangements.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/linked" beforeDir="false" afterPath="$PROJECT_DIR$/linked" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1TL6uFiNTjhtIcFdTqDkriirXYs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Programmeren\JQuery\jquery" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Programmeren\JQuery" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb72b5cb-9254-4d0f-94d2-87e42f2a5d02" name="Default Changelist" comment="" />
+      <created>1573227248431</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573227248431</updated>
+      <workItem from="1573227249688" duration="9052000" />
+      <workItem from="1573299185327" duration="1370000" />
+      <workItem from="1573385788711" duration="1197000" />
+      <workItem from="1573462042290" duration="15881000" />
+      <workItem from="1573506582315" duration="965000" />
+      <workItem from="1573551951270" duration="5248000" />
+      <workItem from="1573573607022" duration="663000" />
+      <workItem from="1573586881100" duration="2004000" />
+      <workItem from="1573638727421" duration="15619000" />
+      <workItem from="1573685479551" duration="1537000" />
+      <workItem from="1573724797407" duration="13077000" />
+      <workItem from="1573760902909" duration="657000" />
+      <workItem from="1573816553553" duration="12526000" />
+      <workItem from="1574067581392" duration="21163000" />
+      <workItem from="1574160523130" duration="1438000" />
+      <workItem from="1574183093287" duration="1452000" />
+      <workItem from="1574241815207" duration="7490000" />
+      <workItem from="1574276466147" duration="1481000" />
+      <workItem from="1574336359614" duration="672000" />
+      <workItem from="1574425397271" duration="8581000" />
+      <workItem from="1574666909929" duration="1639000" />
+      <workItem from="1574674815108" duration="7044000" />
+      <workItem from="1574779375499" duration="2052000" />
+      <workItem from="1574854883926" duration="4309000" />
+      <workItem from="1574867727447" duration="1815000" />
+      <workItem from="1574920125270" duration="2879000" />
+      <workItem from="1574975927081" duration="1043000" />
+      <workItem from="1575283686515" duration="5618000" />
+      <workItem from="1576451784163" duration="632000" />
+      <workItem from="1576659026306" duration="37000" />
+      <workItem from="1579461949293" duration="984000" />
+      <workItem from="1579509423365" duration="1205000" />
+      <workItem from="1580311221729" duration="1977000" />
+      <workItem from="1584963052284" duration="4241000" />
+      <workItem from="1584985234457" duration="386000" />
+      <workItem from="1584993214928" duration="2686000" />
+      <workItem from="1586164766562" duration="635000" />
+      <workItem from="1586182376997" duration="585000" />
+      <workItem from="1600430841376" duration="2592000" />
+      <workItem from="1600452993714" duration="2334000" />
+      <workItem from="1600689503786" duration="26000" />
+      <workItem from="1601504984047" duration="1603000" />
+      <workItem from="1601543607381" duration="3251000" />
+      <workItem from="1601567920391" duration="5261000" />
+      <workItem from="1601590049945" duration="113000" />
+      <workItem from="1601590189502" duration="2162000" />
+      <workItem from="1601630932941" duration="566000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
